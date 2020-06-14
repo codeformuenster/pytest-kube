@@ -5,6 +5,12 @@ Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), following [Se
 
 ## [Unreleased]
 
+## [0.1.2] 2020-06-14
+- Update `pytest` to `5.4.3`
+- Update `kubectl` to `v1.18.3`
+- Update `helm` to `v3.2.3`
+- Remove `gsctl` and `k3d` for now
+
 ## [0.1.1] 2020-05-12
 - Refactor of `Cluster` class
 - Update `kind` to `v0.8.1`
