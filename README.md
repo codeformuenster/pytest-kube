@@ -1,4 +1,4 @@
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/codeformuenster/pytest-kube)](https://cloud.docker.com/u/codeformuenster/repository/docker/codeformuenster/pytest-kube/builds)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/codeformuenster/pytest-kube)](https://cloud.docker.com/u/codeformuenster/repository/docker/codeformuenster/pytest-kube)
 
 # pytest-kube
 
